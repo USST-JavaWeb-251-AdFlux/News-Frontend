@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "title": "Nuxt 4 发布：更快、更强、更灵活",
+    "summary": "Nuxt 4 带来了全新的架构改进，性能大幅提升，开发体验更加流畅。",
+    "content": "<p>Nuxt 4 正式发布，引入了 Turbo 引擎，构建速度提升 50%。同时支持更灵活的目录结构...</p>",
+    "category": "科技",
+    "date": "2023-10-27",
+    "coverImage": "https://placehold.co/600x400?text=Tech+1"
+  },
+  {
+    "id": "2",
+    "title": "AI 芯片大战：谁将称霸未来？",
+    "summary": "各大科技巨头纷纷入局自研 AI 芯片，市场竞争进入白热化阶段。",
+    "content": "<p>随着 ChatGPT 的爆火，算力需求激增。英伟达、AMD、Intel 以及各大云厂商都在加速布局...</p>",
+    "category": "科技",
+    "date": "2023-10-26",
+    "coverImage": "https://placehold.co/600x400?text=Tech+2"
+  },
+  {
+    "id": "3",
+    "title": "量子计算取得重大突破",
+    "summary": "科学家在量子纠错领域取得关键进展，通用量子计算机离我们更近了一步。",
+    "content": "<p>最新的研究表明，通过新的纠错编码方案，可以有效延长量子比特的相干时间...</p>",
+    "category": "科技",
+    "date": "2023-10-25",
+    "coverImage": "https://placehold.co/600x400?text=Tech+3"
+  },
+  {
+    "id": "4",
+    "title": "全球股市震荡，投资者何去何从？",
+    "summary": "受宏观经济数据影响，本周全球主要股指出现大幅波动。",
+    "content": "<p>美联储加息预期升温，导致科技股普遍回调。分析师建议投资者保持谨慎...</p>",
+    "category": "财经",
+    "date": "2023-10-27",
+    "coverImage": "https://placehold.co/600x400?text=Finance+1"
+  },
+  {
+    "id": "5",
+    "title": "数字货币市场迎来新一轮监管",
+    "summary": "多国央行联合发布声明，将加强对加密货币交易的监管力度。",
+    "content": "<p>为了防范金融风险，各国监管机构正在制定统一的监管框架...</p>",
+    "category": "财经",
+    "date": "2023-10-26",
+    "coverImage": "https://placehold.co/600x400?text=Finance+2"
+  },
+  {
+    "id": "6",
+    "title": "新能源汽车销量再创新高",
+    "summary": "最新数据显示，新能源汽车市场渗透率已突破 30%。",
+    "content": "<p>在政策扶持和技术进步的双重驱动下，电动汽车销量持续井喷...</p>",
+    "category": "财经",
+    "date": "2023-10-25",
+    "coverImage": "https://placehold.co/600x400?text=Finance+3"
+  },
+  {
+    "id": "7",
+    "title": "世界杯决赛前瞻：巅峰对决",
+    "summary": "两支传统强队将在决赛相遇，谁能捧起大力神杯？",
+    "content": "<p>这场比赛被誉为世纪之战，双方阵容齐整，球星云集...</p>",
+    "category": "体育",
+    "date": "2023-10-27",
+    "coverImage": "https://placehold.co/600x400?text=Sports+1"
+  },
+  {
+    "id": "8",
+    "title": "NBA 新赛季揭幕战打响",
+    "summary": "卫冕冠军主场迎战强敌，新赛季格局充满悬念。",
+    "content": "<p>揭幕战中，双方打得难解难分，最终凭借关键球绝杀...</p>",
+    "category": "体育",
+    "date": "2023-10-26",
+    "coverImage": "https://placehold.co/600x400?text=Sports+2"
+  },
+  {
+    "id": "9",
+    "title": "网球大满贯：新星横空出世",
+    "summary": "一位年仅 19 岁的小将一路过关斩将，闯入大满贯决赛。",
+    "content": "<p>他的打法凶悍，心理素质极佳，被媒体誉为未来的网坛霸主...</p>",
+    "category": "体育",
+    "date": "2023-10-25",
+    "coverImage": "https://placehold.co/600x400?text=Sports+3"
+  },
+  {
+    "id": "10",
+    "title": "暑期档电影票房破百亿",
+    "summary": "今年暑期档佳片云集，观众观影热情高涨。",
+    "content": "<p>多部国产大片口碑票房双丰收，展现了电影市场的强劲复苏...</p>",
+    "category": "娱乐",
+    "date": "2023-10-27",
+    "coverImage": "https://placehold.co/600x400?text=Entertainment+1"
+  },
+  {
+    "id": "11",
+    "title": "知名歌手宣布举办全球巡演",
+    "summary": "歌迷期待已久的巡回演唱会终于官宣，首站定于下月。",
+    "content": "<p>门票预售开启即秒空，可见其超高的人气...</p>",
+    "category": "娱乐",
+    "date": "2023-10-26",
+    "coverImage": "https://placehold.co/600x400?text=Entertainment+2"
+  },
+  {
+    "id": "12",
+    "title": "热门综艺节目引发全网热议",
+    "summary": "最新一期节目中，嘉宾的言论引发了网友的广泛讨论。",
+    "content": "<p>节目组回应称，将虚心接受观众建议，改进节目内容...</p>",
+    "category": "娱乐",
+    "date": "2023-10-25",
+    "coverImage": "https://placehold.co/600x400?text=Entertainment+3"
+  },
+  {
+    "id": "13",
+    "title": "秋季养生指南：如何吃出健康",
+    "summary": "秋季天气转凉，饮食应以滋阴润肺为主。",
+    "content": "<p>专家建议多吃梨、百合、银耳等食物，少吃辛辣刺激食品...</p>",
+    "category": "生活",
+    "date": "2023-10-27",
+    "coverImage": "https://placehold.co/600x400?text=Lifestyle+1"
+  },
+  {
+    "id": "14",
+    "title": "极简主义生活：断舍离的艺术",
+    "summary": "越来越多的人开始追求极简生活，通过减少物品来获得内心的平静。",
+    "content": "<p>极简主义不仅仅是扔东西，更是一种生活态度和价值观...</p>",
+    "category": "生活",
+    "date": "2023-10-26",
+    "coverImage": "https://placehold.co/600x400?text=Lifestyle+2"
+  },
+  {
+    "id": "15",
+    "title": "周末去哪儿？城市周边游推荐",
+    "summary": "为你精选了几个适合周末短途旅行的好去处。",
+    "content": "<p>远离城市喧嚣，亲近大自然，放松身心...</p>",
+    "category": "生活",
+    "date": "2023-10-25",
+    "coverImage": "https://placehold.co/600x400?text=Lifestyle+3"
+  }
+]
