@@ -115,7 +115,8 @@ const changePage = (page: number) => {
 useHead({
   title: computed(() => `${categoryName.value} - News Site`),
   meta: [
-    { name: 'description', content: computed(() => `Latest news in ${categoryName.value}`) }
+    { name: 'description', content: computed(() => `Latest news in ${categoryName.value}`) },
+    { name: 'adflux-page-category', content: computed(() => categoryName.value) }
   ]
 });
 </script>
