@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     prerender: {
       routes: [
         '/',
-        ...categories.map(c => `/category/${c}`),
+        ...categories.map((c: any) => `/category/${c.slug}`),
         ...newsData.map((item: any) => `/article/${item.id}`)
       ]
     }
