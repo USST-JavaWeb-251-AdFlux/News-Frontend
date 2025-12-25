@@ -10,6 +10,19 @@ export default defineNuxtConfig({
   ssr: false,
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
+  app: {
+    head: {
+      meta: [{
+        name: 'adflux-verification',
+        content: 'verify-25882a0e1452454a0ae7ecafff783ff7',
+      }],
+      script: [{
+        src: 'https://adflux.bobliu.tech/ads/main.js',
+        type: 'module',
+        tagPosition: 'bodyClose',
+      }],
+    },
+  },
   nitro: {
     preset: 'cloudflare-pages-static',
     prerender: {
