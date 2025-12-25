@@ -7,9 +7,11 @@ const newsData = JSON.parse(readFileSync(join(process.cwd(), 'data/news.json'), 
 const categories = JSON.parse(readFileSync(join(process.cwd(), 'data/categories.json'), 'utf-8'))
 
 export default defineNuxtConfig({
+  ssr: false,
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
   nitro: {
+    preset: 'cloudflare-pages-static',
     prerender: {
       routes: [
         '/',
