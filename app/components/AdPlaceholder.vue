@@ -1,30 +1,24 @@
 <template>
-  <div class="ad-placeholder">
-    <div class="ad-label">Advertisement <span v-if="$slots.default">- <slot /></span></div>
-    <adflux-slot></adflux-slot>
-  </div>
+  <adflux-slot class="ad-placeholder"></adflux-slot>
 </template>
 
 <script setup lang="ts">
-// No logic needed
+const { type } = defineProps<{
+  type: 'banner' | 'sidebar';
+}>();
+
+const height = type === 'banner' ? '140px' : '400px';
 </script>
 
 <style scoped>
 .ad-placeholder {
+  min-height: v-bind(height);
   background-color: #f0f0f0;
   border: 1px dashed #ccc;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 20px;
   margin: 20px 0;
-  min-height: 100px;
-}
-
-.ad-label {
-  font-size: 0.8rem;
-  color: #999;
-  margin-bottom: 10px;
 }
 </style>
