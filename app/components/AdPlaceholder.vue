@@ -20,5 +20,6 @@ const height = type === 'banner' ? '140px' : '400px';
   align-items: center;
   justify-content: center;
   margin: 20px 0;
+  overflow: hidden;
 }
 </style>
