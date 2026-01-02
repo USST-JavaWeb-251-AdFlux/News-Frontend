@@ -1,7 +1,7 @@
 <template>
   <div class="page-grid">
     <div class="content-area">
-      <AdPlaceholder class="banner-ad">
+      <AdPlaceholder type="banner" class="banner-ad">
         <template #default>
           Banner Ad Space
         </template>
@@ -55,13 +55,13 @@
     </div>
 
     <aside class="sidebar">
-      <AdPlaceholder class="sidebar-ad">
+      <AdPlaceholder type="sidebar" class="sidebar-ad">
         <template #default>
           Sidebar Ad 1
         </template>
       </AdPlaceholder>
       
-      <AdPlaceholder class="sidebar-ad" style="margin-top: 20px;">
+      <AdPlaceholder type="sidebar" class="sidebar-ad" style="margin-top: 20px;">
         <template #default>
           Sidebar Ad 2
         </template>
