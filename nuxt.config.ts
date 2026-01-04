@@ -2,7 +2,6 @@ import { defineNuxtConfig } from 'nuxt/config'
 import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 
-// Read data for prerendering
 const newsData = JSON.parse(readFileSync(join(process.cwd(), 'data/news.json'), 'utf-8'))
 const categories = JSON.parse(readFileSync(join(process.cwd(), 'data/categories.json'), 'utf-8'))
 
