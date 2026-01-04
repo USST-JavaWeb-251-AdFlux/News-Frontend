@@ -1,18 +1,15 @@
 <template>
-  <adflux-slot class="ad-placeholder"></adflux-slot>
+  <adflux-slot :layout="type" class="ad-placeholder"></adflux-slot>
 </template>
 
 <script setup lang="ts">
 const { type } = defineProps<{
   type: 'banner' | 'sidebar';
 }>();
-
-const height = type === 'banner' ? '140px' : '400px';
 </script>
 
 <style scoped>
 .ad-placeholder {
-  min-height: v-bind(height);
   background-color: #f0f0f0;
   border: 1px dashed #ccc;
   display: flex;

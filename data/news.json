@@ -6,7 +6,7 @@
     "content": "<p>Nuxt 4 正式发布，引入了 Turbo 引擎，构建速度提升 50%。同时支持更灵活的目录结构...</p>",
     "category": "科技",
     "date": "2023-10-27",
-    "coverImage": "https://placehold.co/600x400?text=Tech+1"
+    "coverImage": "/Tech/1.jpg"
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "content": "<p>随着 ChatGPT 的爆火，算力需求激增。英伟达、AMD、Intel 以及各大云厂商都在加速布局...</p>",
     "category": "科技",
     "date": "2023-10-26",
-    "coverImage": "https://placehold.co/600x400?text=Tech+2"
+    "coverImage": "/Tech/2.jpg"
   },
   {
     "id": "3",
@@ -24,7 +24,7 @@
     "content": "<p>最新的研究表明，通过新的纠错编码方案，可以有效延长量子比特的相干时间...</p>",
     "category": "科技",
     "date": "2023-10-25",
-    "coverImage": "https://placehold.co/600x400?text=Tech+3"
+    "coverImage": "/Tech/3.jpg"
   },
   {
     "id": "4",
@@ -33,7 +33,7 @@
     "content": "<p>美联储加息预期升温，导致科技股普遍回调。分析师建议投资者保持谨慎...</p>",
     "category": "财经",
     "date": "2023-10-27",
-    "coverImage": "https://placehold.co/600x400?text=Finance+1"
+    "coverImage": "/Finance/1.jpg"
   },
   {
     "id": "5",
@@ -42,7 +42,7 @@
     "content": "<p>为了防范金融风险，各国监管机构正在制定统一的监管框架...</p>",
     "category": "财经",
     "date": "2023-10-26",
-    "coverImage": "https://placehold.co/600x400?text=Finance+2"
+    "coverImage": "/Finance/2.jpg"
   },
   {
     "id": "6",
@@ -51,7 +51,7 @@
     "content": "<p>在政策扶持和技术进步的双重驱动下，电动汽车销量持续井喷...</p>",
     "category": "财经",
     "date": "2023-10-25",
-    "coverImage": "https://placehold.co/600x400?text=Finance+3"
+    "coverImage": "/Finance/3.jpg"
   },
   {
     "id": "7",
@@ -60,7 +60,7 @@
     "content": "<p>这场比赛被誉为世纪之战，双方阵容齐整，球星云集...</p>",
     "category": "体育",
     "date": "2023-10-27",
-    "coverImage": "https://placehold.co/600x400?text=Sports+1"
+    "coverImage": "/Sports/1.jpg"
   },
   {
     "id": "8",
@@ -69,7 +69,7 @@
     "content": "<p>揭幕战中，双方打得难解难分，最终凭借关键球绝杀...</p>",
     "category": "体育",
     "date": "2023-10-26",
-    "coverImage": "https://placehold.co/600x400?text=Sports+2"
+    "coverImage": "/Sports/2.jpg"
   },
   {
     "id": "9",
@@ -78,7 +78,7 @@
     "content": "<p>他的打法凶悍，心理素质极佳，被媒体誉为未来的网坛霸主...</p>",
     "category": "体育",
     "date": "2023-10-25",
-    "coverImage": "https://placehold.co/600x400?text=Sports+3"
+    "coverImage": "/Sports/3.jpg"
   },
   {
     "id": "10",
@@ -87,7 +87,7 @@
     "content": "<p>多部国产大片口碑票房双丰收，展现了电影市场的强劲复苏...</p>",
     "category": "娱乐",
     "date": "2023-10-27",
-    "coverImage": "https://placehold.co/600x400?text=Entertainment+1"
+    "coverImage": "/Entertainment/1.jpg"
   },
   {
     "id": "11",
@@ -96,7 +96,7 @@
     "content": "<p>门票预售开启即秒空，可见其超高的人气...</p>",
     "category": "娱乐",
     "date": "2023-10-26",
-    "coverImage": "https://placehold.co/600x400?text=Entertainment+2"
+    "coverImage": "/Entertainment/2.jpg"
   },
   {
     "id": "12",
@@ -105,7 +105,7 @@
     "content": "<p>节目组回应称，将虚心接受观众建议，改进节目内容...</p>",
     "category": "娱乐",
     "date": "2023-10-25",
-    "coverImage": "https://placehold.co/600x400?text=Entertainment+3"
+    "coverImage": "/Entertainment/3.jpg"
   },
   {
     "id": "13",
@@ -114,7 +114,7 @@
     "content": "<p>专家建议多吃梨、百合、银耳等食物，少吃辛辣刺激食品...</p>",
     "category": "生活",
     "date": "2023-10-27",
-    "coverImage": "https://placehold.co/600x400?text=Lifestyle+1"
+    "coverImage": "/Lifestyle/1.jpg"
   },
   {
     "id": "14",
@@ -123,7 +123,7 @@
     "content": "<p>极简主义不仅仅是扔东西，更是一种生活态度和价值观...</p>",
     "category": "生活",
     "date": "2023-10-26",
-    "coverImage": "https://placehold.co/600x400?text=Lifestyle+2"
+    "coverImage": "/Lifestyle/2.jpg"
   },
   {
     "id": "15",
@@ -132,6 +132,6 @@
     "content": "<p>远离城市喧嚣，亲近大自然，放松身心...</p>",
     "category": "生活",
     "date": "2023-10-25",
-    "coverImage": "https://placehold.co/600x400?text=Lifestyle+3"
+    "coverImage": "/Lifestyle/3.jpg"
   }
 ]
